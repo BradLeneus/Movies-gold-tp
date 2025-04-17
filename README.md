@@ -1,3 +1,5 @@
+Le commit a été fait par moi (Bradley), mais vu que je l'ai fait sur mon container d'interface,  cela marque William qui est mon coéquipier dans ce cours.
+
 ## Movie APP
 Application to review movies based on [this tutorial](https://www.youtube.com/watch?v=5PdEmeopJVQ&t=7731s)
 
